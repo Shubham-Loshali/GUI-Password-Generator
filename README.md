@@ -4,13 +4,21 @@ A lightweight Python application that lets you generate secure passwords using a
 
 ---
 
-## 📸 Screenshots
+## 📸 GUI Screenshots
 
-| Main Interface | Character Type Options | Generated Password Output |
-|----------------|------------------------|----------------------------|
-| ![](screenshots/1.png) | ![](screenshots/2.png) | ![](screenshots/3.png) |
+### 🔤 ALPHA Password Mode  
+![Alpha Mode](screenshots/ALPHA.png)
 
-> Make sure your `screenshots/` folder contains all three files: `1.png`, `2.png`, and `3.png`.
+---
+
+### 🔡 ALPHANUMERIC Password Mode  
+![Alphanumeric Mode](screenshots/ALPHANUMERIC.png)
+
+---
+
+### 🔢 NUMERIC Password Mode  
+![Numeric Mode](screenshots/NUMERIC.png)
+
 
 ---
 
